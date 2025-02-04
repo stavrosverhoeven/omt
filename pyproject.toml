@@ -1,0 +1,5 @@
+[project]
+name = "omt"
+version = "0.1.0"
+description = "Ollama Model Test - Figure out the best model for the task"
+requires-python = ">=3.10"
